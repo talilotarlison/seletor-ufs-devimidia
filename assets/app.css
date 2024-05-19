@@ -1,0 +1,23 @@
+form{
+  max-width: 400px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  gap:5px;
+}
+
+.card{
+  display: flex;
+  flex-direction: column;
+  max-width: 400px;
+  justify-content: center;
+  align-items: center;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+h2 {
+  color: red;
+  text-align: center;
+}
